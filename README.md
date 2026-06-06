@@ -246,9 +246,9 @@ npm run db:generate
 Built as a production-quality portfolio project showcasing full-stack development with **Next.js 15, React 19, TypeScript, PostgreSQL, and Vercel**.
 
 **Connect:**
-- GitHub: [your-github-handle](https://github.com/your-github-handle)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio-url](https://your-portfolio.com)
+-  [Github-handle](https://github.com/Chandrika987)
+-  [Linkedin](https://linkedin.com/in/chandrikapala)
+
 
 ## License
 
