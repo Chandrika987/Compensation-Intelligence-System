@@ -4,6 +4,8 @@ A production-quality compensation intelligence platform inspired by Levels.fyi, 
 
 > **Core Principle:** Levels matter more than job titles.
 
+## [Live Demo](https://compensation-intelligence-system-alpha.vercel.app/)
+
 ## Features
 
 - 🔍 **Salary Explorer** — Browse, filter, and sort compensation data across companies, levels, locations, and roles
